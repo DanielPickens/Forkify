@@ -5,8 +5,7 @@
   "default": "index.html",
   "scripts": {
     "build": "[my-framework] build --output public"
-  }
-}
+  },
   "author": "Daniel Pickens",
   "license": "ISC",
   "devDependencies": {
