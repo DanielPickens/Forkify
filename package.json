@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Recipe application",
   "default": "index.html",
+  {
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
-  },
+    "build": "[my-framework] build --output public"
+  }
+}
   "author": "Jonas Schedtmann",
   "license": "ISC",
   "devDependencies": {
@@ -17,10 +18,5 @@
     "core-js": "^3.6.5",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.13.7"
-  }
-}
-{
-  "scripts": {
-    "build": "[my-framework] build --output public"
   }
 }
