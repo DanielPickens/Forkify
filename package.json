@@ -7,7 +7,7 @@
     "build": "[my-framework] build --output public"
   }
 }
-  "author": "Jonas Schedtmann",
+  "author": "Daniel Pickens",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1",
