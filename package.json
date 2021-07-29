@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "other build --output public"
+    "build": ""
   },
   "author": "Daniel Pickens",
   "license": "ISC",
